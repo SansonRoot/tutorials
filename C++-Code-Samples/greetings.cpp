@@ -9,7 +9,3 @@ int main(){
 	return 0;
 }
 
-int main(int a){
-	cout<<"yes " <<a;
-	return 1;
-}
